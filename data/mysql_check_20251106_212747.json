@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-11-06T21:27:39.070924",
+  "module": "mysql_check",
+  "host": "192.168.10.21",
+  "ping": false,
+  "port_3306": false,
+  "connection": false,
+  "status": "CRITICAL",
+  "error": "2003 (HY000): Can't connect to MySQL server on '192.168.10.21:3306' (10060)",
+  "exit_code": 2
+}

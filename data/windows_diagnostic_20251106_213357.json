@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-11-06T21:33:56.827868",
+  "hostname": "DESKTOP-UA7LL9T",
+  "os": "Windows",
+  "os_version": "10.0.26100",
+  "os_release": "11",
+  "architecture": "AMD64",
+  "boot_time": "2025-11-06T09:12:28.630153",
+  "uptime_days": 0,
+  "uptime_hours": 12,
+  "cpu_percent": 5.1,
+  "cpu_count": 8,
+  "memory_total_gb": 15.78,
+  "memory_used_gb": 8.87,
+  "memory_percent": 56.2,
+  "disks": [
+    {
+      "device": "C:\\",
+      "mountpoint": "C:\\",
+      "fstype": "NTFS",
+      "total_gb": 801.53,
+      "used_gb": 236.56,
+      "free_gb": 564.97,
+      "percent": 29.5
+    }
+  ],
+  "exit_code": 0,
+  "module": "windows_diagnostic"
+}

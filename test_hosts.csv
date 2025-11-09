@@ -1,0 +1,4 @@
+hostname,ip,os_version
+Serveur1,192.168.1.10,Windows Server 2019
+Serveur2,192.168.1.11,Ubuntu 22.04
+Serveur3,192.168.1.12,CentOS 7

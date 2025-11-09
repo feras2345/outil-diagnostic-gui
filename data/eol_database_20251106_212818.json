@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-11-06T21:28:18.841978",
+  "module": "eol_database",
+  "os_versions": {
+    "Windows Server 2012 R2": "2023-10-10",
+    "Windows Server 2016": "2027-01-11",
+    "Windows Server 2019": "2029-01-09",
+    "Windows Server 2022": "2031-10-13",
+    "Ubuntu 18.04": "2023-05-31",
+    "Ubuntu 20.04": "2025-04-02",
+    "Ubuntu 22.04": "2027-04-01",
+    "Ubuntu 24.04": "2029-04-25",
+    "CentOS 7": "2024-06-30",
+    "CentOS 8": "2021-12-31",
+    "VMware ESXi 6.5": "2022-10-15",
+    "VMware ESXi 6.7": "2023-10-15",
+    "VMware ESXi 7.0": "2025-04-02"
+  },
+  "exit_code": 0
+}

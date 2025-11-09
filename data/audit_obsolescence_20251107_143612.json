@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-07T14:36:12.564748",
+  "module": "obsolescence_audit",
+  "summary": {
+    "total": 4,
+    "critical": 3,
+    "warning": 0,
+    "ok": 1,
+    "unknown": 0
+  },
+  "critical_hosts": [
+    {
+      "hostname": "DC01",
+      "ip": "192.168.10.10",
+      "os_version": "Windows Server 2012 R2",
+      "eol_date": "2023-10-10",
+      "eol_status": "EXPIRED"
+    },
+    {
+      "hostname": "WMS-DB",
+      "ip": "192.168.10.21",
+      "os_version": "Ubuntu 20.04",
+      "eol_date": "2025-04-02",
+      "eol_status": "EXPIRED"
+    },
+    {
+      "hostname": "IPBX-VM",
+      "ip": "192.168.10.40",
+      "os_version": "CentOS 7",
+      "eol_date": "2024-06-30",
+      "eol_status": "EXPIRED"
+    }
+  ],
+  "warning_hosts": [],
+  "ok_hosts": [
+    {
+      "hostname": "DC02",
+      "ip": "192.168.10.11",
+      "os_version": "Windows Server 2019",
+      "eol_date": "2029-01-09",
+      "eol_status": "OK"
+    }
+  ],
+  "unknown_hosts": [],
+  "exit_code": 2
+}

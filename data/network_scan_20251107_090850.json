@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-11-07T09:08:50.648191",
+  "module": "network_scan",
+  "network": "10.60.60.0/22",
+  "hosts_found": 1,
+  "hosts": [
+    {
+      "ip": "10.60.60.107",
+      "hostname": "DESKTOP-UA7LL9T",
+      "os": "Unknown",
+      "status": "Up"
+    }
+  ],
+  "exit_code": 0
+}
